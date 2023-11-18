@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">291534560731-plh22j5t55ntebg3pfplfgbnf72s6ots.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">291534560731</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEkJWGwouFIvU1HBnftBaqCbY40Jkozs4</string>
+    <string name="google_app_id" translatable="false">1:291534560731:android:a08e640dd2e28cd80b1bfe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEkJWGwouFIvU1HBnftBaqCbY40Jkozs4</string>
+    <string name="google_storage_bucket" translatable="false">epasienbludrsudbaubau.appspot.com</string>
+    <string name="project_id" translatable="false">epasienbludrsudbaubau</string>
+</resources>
